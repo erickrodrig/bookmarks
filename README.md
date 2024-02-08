@@ -1,6 +1,6 @@
 ![preview](preview.gif)
 
-# Bookmarks template for devs
+# Template of my dev bookmarks
 
 This is a simple template of how I organize my bookmarks and also some of the sites that I use. Change as you need.
 
